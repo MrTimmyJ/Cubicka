@@ -106,5 +106,5 @@ Explore a procedurally generated voxel world with structure and survive. Travel 
 
 🪪 License
 
-Cubicka is copyrighted under Blue Torch Games.
-
+Cubicka is a proprietary product. All rights reserved.
+© 2025 Blue Torch Games. Unauthorized distribution or reproduction is prohibited.
